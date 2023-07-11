@@ -38,7 +38,7 @@ const data = {
         }, 
         {
             name: 'name 1',
-            slug: 'yt',
+            slug: 'yt4',
             category: 'shirt',
             image: '/images/p1.jpg',
             price: 120,
